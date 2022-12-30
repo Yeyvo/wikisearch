@@ -31,7 +31,7 @@ for xmlFile in xmlFiles:
 
 
 # Some regEx for parsing
-cleanExtLinks =#TO COMPLETE (1 expression)
+cleanExtLinks = ""
 linkRe =#TO COMPLETE (1 expression)
 removeLinkRe = "\[\[[^\]]+\|([^\|\]]+)\]\]"
 removeLink2Re =  "\[\[([^\|\]]+)\]\]"
