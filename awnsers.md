@@ -16,5 +16,5 @@
 ## IV/ Parsing the data
 
 1. The two matrices are encoded using dictionaries. (what is the name of this encoding)?
-2. The links are encoded using an href tag in the wiki language.
-3. 
+2. The links are encoded using an href attribute in an "a" tag in the wiki language.
+3. See the parsexml.py file (the cleanExtLinks regular expression)
